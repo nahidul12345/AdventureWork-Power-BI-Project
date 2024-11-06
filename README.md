@@ -33,6 +33,10 @@ The dashboard consists of four pages, each catering to specific analytical needs
 4. ### **Customer Insights**
    - Focuses on identifying and analyzing high-value customers for targeted strategies.
 
+
+![Projet OverView](C:\Users\ASUS\Videos\Screen Recordings)
+
+
 ## Power BI Dashboard Link
 View the published dashboard here: [Power BI Publish Link](https://shorturl.at/bmQFZ)
 
