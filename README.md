@@ -34,7 +34,8 @@ The dashboard consists of four pages, each catering to specific analytical needs
    - Focuses on identifying and analyzing high-value customers for targeted strategies.
 
 
-![Projet OverView](C:\Users\ASUS\Videos\Screen Recordings)
+![image](https://github.com/user-attachments/assets/b364a0d5-3cb6-4f0e-943a-7f7d7da85674)
+
 
 
 ## Power BI Dashboard Link
